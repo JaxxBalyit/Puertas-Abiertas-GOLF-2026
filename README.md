@@ -24,13 +24,13 @@ Puedes descargar el código directamente, o puedes clonarlo si prefieres. Poster
 ```bash
 python -m venv venv
 ```
-Instalas las dependencias:
-```bash
-pip install -r requirements.txt
-```
 Activas el entorno virtual:
 ```bash
 venv\Scripts\activate
+```
+Instalas las dependencias:
+```bash
+pip install -r requirements.txt
 ```
 Abres los Jupyter Notebooks y ejecutas las celdas para ver las simulaciones o el código de la librería Sympy.
 
